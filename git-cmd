@@ -1,0 +1,57 @@
+git commands :
+ git status
+  34 git add demo.py
+  35 git commit -m "added demo.py"
+  36 cd ..
+  37 cd ..
+  38 git add demo.py
+  39 git commit -m "added demo.py"
+  40 cd .git
+  41 cd hooks
+  42 ls
+  43 code pre-commit
+  44 ls
+  45 rm pre-commit.txt
+  46 ls
+  47 noteoad pre-commit
+  48 code pre-commit
+  49 ls
+  50 cd ..
+  51 cd..
+  52 flake8 demo.py
+  53 dir
+  54 cd .git
+  55 cd hooks
+  56 dir
+  57 mode
+  58 code pre-commit
+  59 ls
+  60 cd pre-commit
+  61 ls
+  62 cd ../..
+  63 git add demo.py
+  64 git commit -m "added demo.py"
+  65 git commit -m "added  code "
+  66 git commit -m "added  code "
+  67 cd .git/
+  68 cd hooks/
+  69 cat pre-commit
+  70 cd ../..
+  71 git commit -m "added  code "
+  72 cd .git
+  73 cd hooks
+  74 rm pre-commit
+  75 ls
+  76 cd ../..
+  77 git commit -m "added  code "
+  78 .git
+  79 cd .git
+  80 cd hooks
+  81 cd ../..
+  82 git commit -m "added  code "
+  83 git commit -m "added  code "
+  84 git commit -m "added  code "
+  85 git commit -m "added  code "
+  86 git commit -m "added  code "
+  87 rm demo.py
+  88 clear
