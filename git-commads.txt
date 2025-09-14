@@ -33,3 +33,8 @@ Git commands:
   33 git remote add origin /https://github.com/Nikitaithape21/github-for-devops-workshop.git
   34 git push origin master
   35 clear
+
+
+git add .
+  44 git commit -m "Updated git-commads.txt, testing.py and deleted git-cmd.txt"
+  45 git push origin master
