@@ -1,0 +1,35 @@
+Git commands:
+ ls
+   4 dir
+   5 clear
+   6 git init
+   7 dir
+   8 git status
+   9 git --version
+  10 rm testing.py
+  11 ls
+
+  13 git remote add origin https://github.com/Nikitaithape21/github-for-devops-workshop.git
+  14 git commit _-m "added git-cmd files"
+  15 git commit _-m "added git-cmd files"
+  16 git commit -m "added new commands"
+  17 git status
+  18 git pull origin master
+  19 git push origin master
+  20 rm git-cmd.txt
+  21 git push origin master
+  22 git add git-commands.txt
+  23 git add git-commands
+  24 git status
+  25 git add git-commands.txt
+  26 git add git-commands.txt
+
+  Add new file in existing repo form local to remote
+
+  28 git add git-commads.txt
+  30 git status
+  31 git commit -m "add git-command files"
+  32 git status
+  33 git remote add origin /https://github.com/Nikitaithape21/github-for-devops-workshop.git
+  34 git push origin master
+  35 clear
